@@ -1,0 +1,5 @@
+{
+  "name": "VlogFlow - Travel Video Analyzer",
+  "description": "A workflow tool that decomposes travel videos into structured guides, extracting food spots, locations, and timestamps using Gemini AI.",
+  "requestFramePermissions": []
+}
